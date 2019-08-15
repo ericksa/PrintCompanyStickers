@@ -1,0 +1,15 @@
+{
+  "name": "printcompanyinfo",
+  "version": "1.0.0",
+  "description": "Printing company contact stickers for desks",
+  "main": "index.js",
+  "dependencies": {
+    "node-thermal-printer": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
